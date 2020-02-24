@@ -3,6 +3,7 @@ RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced
 
 - This is the python light version of RSNDE. 
 - The original code is written in matlab [(code)](https://github.com/zhengwang100/RSDNE).
+- More datasets can be found in [(code)](https://github.com/zhengwang100/RECT).
 
 
 Breifly explain:
