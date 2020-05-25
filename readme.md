@@ -1,5 +1,7 @@
 # RSDNE (python light version)
-RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding. AAAI18
+RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding. AAAI18.
+This is a shallow method for the problem of [Zero-shot Graph Embedding (ZGE)](https://zhengwang100.github.io/project/zero_shot_graph_embedding.html), i.e., graph embeddings when labeled data cannot cover all classes. 
+
 
 - This is the python light version of RSNDE. 
 - The original code is written in matlab [(code)](https://github.com/zhengwang100/RSDNE).
